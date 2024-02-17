@@ -1,0 +1,82 @@
+.container{
+    border: 1px solid gray;
+    margin-top: 380px;
+    width: 25%;
+    height: 200px;
+    margin-left: 720px;
+    background-color: rgba(127, 255, 212, 0.546);
+    border-radius: 5px;
+}
+.navbar{
+    list-style: none;
+    overflow: hidden;
+    justify-content: space-around;
+    background-color: rgba(127, 255, 212, 0.546);
+}
+.navbar a{
+    color: white;
+    padding: 14px 20px;
+    text-align: center;
+    font-size: 17px;
+}
+.navbar a:hover{
+    background-color: rgb(127, 255, 165);
+    color: black;
+}
+
+body{
+    background-color: rgba(127, 202, 255, 0.546);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+    transition: all 2s;
+    
+}
+
+.button1{
+    background: transparent;
+    border: none;
+   margin-left: 50px;
+}
+
+.button2{
+    text-decoration: none;
+    background: transparent;
+    border: none;
+    margin-left: 50px;
+}
+.button1:hover{
+    background: transparent;
+    color: white;
+    transition: all 2s;
+    border-bottom: 1px solid black ;
+}
+
+.button2:hover{
+    text-decoration: none;
+    background: transparent;
+    color: white;
+    transition: all 2s;
+    border-bottom: 1px solid black ;
+}
+.container2{
+    border: 1px solid gray;
+    margin-top: 340px;
+    width: 25%;
+    height: 340px;
+    margin-left: 720px;
+    background-color: rgba(127, 255, 212, 0.546);
+    border-radius: 5px;
+}
+.satu{
+    background-color: gray;
+}
+
+.dua{
+    background-color: white;
+}
