@@ -42,7 +42,7 @@ window.location.assign('login.php');
             </form>
             </center></div>
 <br><hr><br>
-            <table border="1" width="100%">
+            <table border="0" width="100%" cellspacing="2" cellpadding="10">
                 <tr>
                     <th class="satu">ID</th>
                     <th class="satu">Nama Album</th>
