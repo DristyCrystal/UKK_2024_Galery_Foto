@@ -61,8 +61,8 @@
                        echo mysqli_num_rows($sql3);
                     ?></td>
                     <td class="dua"><center>
-                        <a href="like.php?=fotoid<?=$data['fotoid']?>">Like</a>
-                        <a href="komentar-foto.php?=fotoid<?=$data['fotoid']?>">Komentar</a>
+                        <a href="like.php?fotoid=<?=$data['fotoid']?>">Like</a>
+                        <a href="komentar-foto.php?fotoid=<?=$data['fotoid']?>">Komentar</a>
                     </td>
                 </tr>
 
