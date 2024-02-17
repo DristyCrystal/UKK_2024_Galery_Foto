@@ -14,14 +14,14 @@
     background-color: rgba(127, 255, 212, 0.546);
 }
 .navbar a{
-    color: white;
+    color: black;
     padding: 14px 20px;
     text-align: center;
     font-size: 17px;
 }
 .navbar a:hover{
     background-color: rgb(127, 255, 165);
-    color: black;
+    color: gray;
 }
 
 body{
