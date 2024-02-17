@@ -12,10 +12,10 @@
     session_start();
     if(!isset($_SESSION['userid'])){
         ?>
-        
+        <center>
             <a href="register.php">Register</a>
             <a href="login.php">Login</a>
-        
+        </center>
     <?php
     }else{
     ?>
